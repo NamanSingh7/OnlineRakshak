@@ -5,7 +5,7 @@ Azure Health Bot - To impliment the Health Bot which will help you on our websit
 Static Web Page - To host the website on internet.
 This project additionally uses technologies like HTML, CSS, Bootstrap.
 
-Project Link: https://polite-hill-0bc0f2b10.1.azurestaticapps.net/
+Project Link: https://lemon-flower-0b345a610.1.azurestaticapps.net/
 
 It is a platform designed for people who are suffering from some minor diseas and want to have some idea of what to do next. The Health Bot by Microsoft Azure will help you understand the level of problems you have and it will give you an idea of what you should do next.
 
@@ -27,4 +27,4 @@ Diagonose
 
 Here is a demo video of the working of bot: https://www.veed.io/view/6d741295-2b6a-4745-b3f3-801167330f81?
 
-Azure Webpage link: https://polite-hill-0bc0f2b10.1.azurestaticapps.net/
+Azure Webpage link: https://lemon-flower-0b345a610.1.azurestaticapps.net/
