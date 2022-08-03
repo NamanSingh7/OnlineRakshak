@@ -14,6 +14,8 @@ It's totally free and anyone can use it.
 A lot of people actually panic when the see some minor symptoms of any kind of illness. And a lot of people of ignore any kind of symptoms. Both of these situations can be dangerous. That's why I have created a platform where people can tell their problems to this bot and our bot can help them by guiding properly.
 
 The webpage itself looks like this:
+![image](https://user-images.githubusercontent.com/88393791/182611993-8303e4a0-0e08-4e0c-80a2-84994a77806c.png)
+
 
 Home
 
